@@ -1,0 +1,38 @@
+1 person 
+2 bicycle 
+3 car 
+4 motorcycle 
+5 airplane 
+6 bus 
+7 train 
+8 truck 
+9 boat 
+10 traffic light 
+11 fire hydrant 
+
+16 12  bird    
+17 13  cat
+18 14  dog
+19 15  horse
+20 16  sheep
+21 17  cow
+22 18  elephant
+23 19  bear
+24 20  zebra 
+25 21  giraffe
+
+35 22  skis
+36 23  snowboard
+37 24  sports ballm
+
+39 25  baseball bat
+40 26  baseball glove 
+
+41 27  skis
+42 28  surfboard
+43 29  tennis racket
+
+62 30  chair
+63 31  couch
+
+
